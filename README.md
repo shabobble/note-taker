@@ -28,6 +28,7 @@ The goal of this project was to modify starter code to create an application cal
 ## Links
 
 * [GitHub Repository](https://github.com/shabobble/note-taker)
+* [Deployed Application](https://gentle-thicket-66042.herokuapp.com/)
 
 ## Screenshots
 
